@@ -66,7 +66,6 @@ namespace GoodExample.Controllers
                     dataContext.SaveChanges();
                     return "Employee Updated";
                 }
-
             }
             else
             {
