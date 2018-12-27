@@ -83,6 +83,7 @@ E:\Amit\MVC DEMO\Angularjs\AngulaJsExample\GoodExample\bin\System.Web.Razor.xml
 E:\Amit\MVC DEMO\Angularjs\AngulaJsExample\GoodExample\bin\System.Web.WebPages.xml
 E:\Amit\MVC DEMO\Angularjs\AngulaJsExample\GoodExample\bin\System.Web.WebPages.Deployment.xml
 E:\Amit\MVC DEMO\Angularjs\AngulaJsExample\GoodExample\bin\System.Web.WebPages.Razor.xml
+E:\Amit\MVC DEMO\Angularjs\AngulaJsExample\GoodExample\obj\Debug\GoodExample.csprojResolveAssemblyReference.cache
 E:\Amit\MVC DEMO\Angularjs\AngulaJsExample\GoodExample\obj\Debug\GoodExample.csproj.CoreCompileInputs.cache
 E:\Amit\MVC DEMO\Angularjs\AngulaJsExample\GoodExample\obj\Debug\GoodExample.dll
 E:\Amit\MVC DEMO\Angularjs\AngulaJsExample\GoodExample\obj\Debug\GoodExample.pdb
